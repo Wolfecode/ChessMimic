@@ -1,0 +1,2 @@
+# ChessMimic
+Chess AI that can play in the style of a given player. Chess AI currently are either algorithm based, and play like engines or they are highly trained 3000+ rated neural nets that are better than the world's best players. The goal of this project is to create a chess AI that plays at the skill level and in the style of a certain player. For example it can be trained on Anatoly Karpov and would play positionally, or if it were trained on Mihail Tal it would be aggressive and sacrifice frequently.
